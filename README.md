@@ -237,8 +237,15 @@ My current priorities are:
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay2907-dev&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Ajayraj's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay2907-dev&layout=compact&hide_border=true" height="165" alt="Most Used Languages">
+  <a href="https://github.com/ajay2907-dev">
+    <img src="https://img.shields.io/badge/GitHub-ajay2907--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</p>
+
+<p align="center">
+  <b>3 Public Projects</b> &nbsp; • &nbsp;
+  <b>Software Development</b> &nbsp; • &nbsp;
+  <b>Computer Science</b>
 </p>
 
 ---
