@@ -280,18 +280,13 @@ I'm always interested in connecting with fellow developers, students, and people
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake-dark.svg">
-
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg">
-
-    <img
-      src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%">
 </p>
+
+<p align="center">
   <b>🟡 Pac-Man — Eating My Contributions</b>
 </p>
 
@@ -305,6 +300,5 @@ I'm always interested in connecting with fellow developers, students, and people
 <p align="center">
   <i>Every square represents a day. Every contribution tells part of the journey.</i> 🚀
 </p>
-
 ---
 
