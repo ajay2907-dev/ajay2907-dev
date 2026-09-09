@@ -294,6 +294,7 @@ I'm always interested in connecting with fellow developers, students, and people
       alt="GitHub contribution snake">
   </picture>
 </p>
+</p>
   <b>🟡 Pac-Man — Eating My Contributions</b>
 </p>
 
