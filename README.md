@@ -284,18 +284,16 @@ I'm always interested in connecting with fellow developers, students, and people
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake-dark.svg">
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg">
+
     <img
       src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg"
       alt="GitHub contribution snake">
   </picture>
 </p>
-
-<br>
-
-<p align="center">
   <b>🟡 Pac-Man — Eating My Contributions</b>
 </p>
 
