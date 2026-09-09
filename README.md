@@ -273,3 +273,42 @@ I'm always interested in connecting with fellow developers, students, and people
 </p>
 ---
 
+## 🎮 Contribution Arcade
+
+<p align="center">
+  <b>🐍 Snake — My Contributions in Motion</b>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg">
+    <img
+      src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake">
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <b>🟡 Pac-Man — Eating My Contributions</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph"
+    width="100%">
+</p>
+
+<p align="center">
+  <i>Every square represents a day. Every contribution tells part of the journey.</i> 🚀
+</p>
+
+---
+
