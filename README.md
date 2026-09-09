@@ -273,6 +273,7 @@ I'm always interested in connecting with fellow developers, students, and people
 </p>
 ---
 
+---
 ## 🎮 Contribution Arcade
 
 <p align="center">
@@ -281,7 +282,7 @@ I'm always interested in connecting with fellow developers, students, and people
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake"
     width="100%">
 </p>
@@ -292,7 +293,7 @@ I'm always interested in connecting with fellow developers, students, and people
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/ajay2907-dev/ajay2907-dev/pacman-output/pacman-contribution-graph-dark.svg"
     alt="Pac-Man contribution graph"
     width="100%">
 </p>
@@ -300,5 +301,6 @@ I'm always interested in connecting with fellow developers, students, and people
 <p align="center">
   <i>Every square represents a day. Every contribution tells part of the journey.</i> 🚀
 </p>
+
 ---
 
