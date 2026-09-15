@@ -271,9 +271,8 @@ I'm always interested in connecting with fellow developers, students, and people
 <p align="center">
   <b>🚀 Building software. Strengthening fundamentals. Learning continuously.</b>
 </p>
----
 
----
+
 ## 🎮 Contribution Arcade
 
 <p align="center">
